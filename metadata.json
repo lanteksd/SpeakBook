@@ -1,0 +1,5 @@
+{
+  "name": "PDF Audio Book Reader",
+  "description": "Upload your PDF books and listen to them with AI-powered narration. Choose between male and female voices and enjoy a hands-free reading experience.",
+  "requestFramePermissions": []
+}
